@@ -1,8 +1,8 @@
 # Synthetic Data Compliance Framework (SDCF)
 ## Quick Start Guide
 
-**Version:** 1.0  
-**Date:** November 2025  
+**Version:** 1.95  
+**Date:** December 2025  
 **Author:** Wayne Kearns, Kaionix Labs  
 **Contact:** wayne.kearns@nortesconsulting.com
 
@@ -127,7 +127,7 @@ print(f"Fairness Score: {results.fairness.score:.2f}")
 
 ---
 
-**SDCF Version:** 1.0  
+**SDCF Version:** 1.95  
 **License:** CC BY-NC-SA 4.0 (documentation), MIT (code)
 
 © 2025 Wayne Kearns, Kaionix Labs.

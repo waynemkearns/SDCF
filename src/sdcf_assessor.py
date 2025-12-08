@@ -1,6 +1,6 @@
 # SDCF Reference Implementation (Part 2)
 # Main Assessor Class and Decision Logic
-# Version: 1.0
+# Version: 1.95
 # Author: Wayne Kearns, Kaionix Labs
 # License: MIT
 

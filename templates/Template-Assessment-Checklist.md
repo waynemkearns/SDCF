@@ -314,7 +314,7 @@ This checklist ensures comprehensive SDCF assessment. Complete all applicable se
 
 ---
 
-**SDCF Version:** 1.0  
+**SDCF Version:** 1.95  
 **Checklist Template Version:** 1.0  
 **Framework Author:** Wayne Kearns, Kaionix Labs  
 **Website:** https://kaionixlabs.com/sdcf

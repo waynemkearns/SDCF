@@ -1,7 +1,7 @@
 # SDCF Implementation Guide
 ## Technical Reference for the Python Implementation
 
-**Version:** 1.0  
+**Version:** 1.95  
 **Author:** Wayne Kearns, Kaionix Labs
 
 ---

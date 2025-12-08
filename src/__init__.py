@@ -39,7 +39,7 @@ from .sdcf_reference_implementation import (
 
 from .sdcf_assessor import SDCFAssessor
 
-__version__ = "1.0.0"
+__version__ = "1.95.0"
 __author__ = "Wayne Kearns"
 __email__ = "wayne.kearns@nortesconsulting.com"
 __license__ = "MIT"

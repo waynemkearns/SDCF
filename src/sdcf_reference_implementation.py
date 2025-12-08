@@ -1,6 +1,6 @@
 # SDCF Reference Implementation
 # Synthetic Data Compliance Framework - Python Package
-# Version: 1.0
+# Version: 1.95
 # Author: Wayne Kearns, Kaionix Labs
 # License: MIT
 

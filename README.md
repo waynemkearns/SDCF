@@ -3,7 +3,7 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Version](https://img.shields.io/badge/version-1.0-green.svg)](https://github.com/waynemkearns/SDCF)
+[![Version](https://img.shields.io/badge/version-1.95-green.svg)](https://github.com/waynemkearns/SDCF)
 
 **A Purpose-Bounded Methodology for Assessing Privacy, Fidelity, and Fairness in Synthetic Data**
 
@@ -183,14 +183,14 @@ If you use SDCF in research or practice, please cite:
            in Synthetic Data},
   institution = {Kaionix Labs},
   year = {2025},
-  month = {November},
+  month = {December},
   url = {https://github.com/waynemkearns/SDCF},
-  version = {1.0}
+  version = {1.95}
 }
 ```
 
 **APA:**
-> Kearns, W. (2025). *Synthetic Data Compliance Framework (SDCF): A purpose-bounded methodology for assessing privacy, fidelity, and fairness in synthetic data* (Version 1.0). Kaionix Labs.
+> Kearns, W. (2025). *Synthetic Data Compliance Framework (SDCF): A purpose-bounded methodology for assessing privacy, fidelity, and fairness in synthetic data* (Version 1.95). Kaionix Labs.
 
 ---
 
@@ -248,7 +248,7 @@ SDCF builds on research and best practices from:
 
 ---
 
-**Version:** 1.0 | **Author:** Wayne Kearns | **Organization:** Kaionix Labs
+**Version:** 1.95 | **Author:** Wayne Kearns | **Organization:** Kaionix Labs
 
 © 2025 Wayne Kearns, Kaionix Labs. All rights reserved.
 

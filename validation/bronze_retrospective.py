@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Bronze Tier Retrospective Validation - SDCF v1.0
+Bronze Tier Retrospective Validation - SDCF v1.95
 Synthetic Data Compliance Framework
 
 Assesses synthetic datasets using Bronze Tier (synthetic-only) methodology

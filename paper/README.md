@@ -4,9 +4,13 @@ This folder contains the main SDCF academic paper.
 
 ## Files
 
-- `sdcf_framework.pdf` - Main paper (PDF)
+- `sdcf_framework.pdf` - Main paper (PDF) - **Version 1.95**
 - `sdcf_framework.tex` - LaTeX source
-- `references.bib` - Bibliography
+- `references.bib` - Bibliography (40 references)
+
+## Abstract
+
+The Synthetic Data Compliance Framework (SDCF) provides a purpose-bounded methodology for assessing whether synthetic data is fit for a specific intended use. The framework evaluates synthetic data across three dimensions—Privacy, Fidelity, and Fairness—using a tiered assessment approach (Gold, Silver, Bronze) based on available source data access.
 
 ## Citation
 
@@ -18,19 +22,12 @@ This folder contains the main SDCF academic paper.
            in Synthetic Data},
   institution = {Kaionix Labs},
   year = {2025},
-  month = {November},
+  month = {December},
   url = {https://github.com/waynemkearns/SDCF},
-  version = {1.0}
+  version = {1.95}
 }
 ```
 
-## Note
+## License
 
-The PDF and LaTeX files should be copied from the HAL submission folder:
-`Main Paper/hal_submission_04_12_2025/main_paper/`
-
-Use version 1.9 (final):
-- `sdcf_framework_v1.9_FINAL_FOR_HAL.pdf`
-- `sdcf_framework_v1.9_for_hal.tex`
-- `sdcf_references.bib`
-
+The paper is licensed under CC BY-NC-SA 4.0 (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International).

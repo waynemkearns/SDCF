@@ -57,7 +57,8 @@ python bronze_retrospective.py
   author = {Kearns, Wayne},
   title = {Synthetic Data Compliance Framework (SDCF)},
   institution = {Kaionix Labs},
-  year = {2025}
+  year = {2025},
+  version = {1.95}
 }
 ```
 
