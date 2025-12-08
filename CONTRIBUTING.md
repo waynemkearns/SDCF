@@ -32,7 +32,7 @@ Have an idea? Open a GitHub issue describing:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/kaionix-labs/sdcf.git
+git clone https://github.com/waynemkearns/SDCF.git
 cd sdcf
 ```
 

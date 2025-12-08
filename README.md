@@ -3,7 +3,7 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Version](https://img.shields.io/badge/version-1.0-green.svg)](https://github.com/kaionix-labs/sdcf)
+[![Version](https://img.shields.io/badge/version-1.0-green.svg)](https://github.com/waynemkearns/SDCF)
 
 **A Purpose-Bounded Methodology for Assessing Privacy, Fidelity, and Fairness in Synthetic Data**
 
@@ -45,7 +45,7 @@ SDCF is a practical framework for evaluating whether synthetic data is acceptabl
 
 ```bash
 # Clone the repository
-git clone https://github.com/kaionix-labs/sdcf.git
+git clone https://github.com/waynemkearns/SDCF.git
 cd sdcf
 
 # Install dependencies
@@ -184,7 +184,7 @@ If you use SDCF in research or practice, please cite:
   institution = {Kaionix Labs},
   year = {2025},
   month = {November},
-  url = {https://github.com/kaionix-labs/sdcf},
+  url = {https://github.com/waynemkearns/SDCF},
   version = {1.0}
 }
 ```
@@ -226,7 +226,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 
 - **Email:** wayne.kearns@nortesconsulting.com
 - **Website:** https://kaionixlabs.com/sdcf
-- **Issues:** [GitHub Issues](https://github.com/kaionix-labs/sdcf/issues)
+- **Issues:** [GitHub Issues](https://github.com/waynemkearns/SDCF/issues)
 
 ### Professional Services
 

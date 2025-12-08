@@ -55,7 +55,7 @@ When using SDCF framework documentation, please include:
 
   "Synthetic Data Compliance Framework (SDCF) by Wayne Kearns, Kaionix Labs"
   "Licensed under CC BY-NC-SA 4.0"
-  "https://github.com/kaionix-labs/sdcf"
+  "https://github.com/waynemkearns/SDCF"
 
 ================================================================================
 

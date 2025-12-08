@@ -19,7 +19,7 @@ This folder contains the main SDCF academic paper.
   institution = {Kaionix Labs},
   year = {2025},
   month = {November},
-  url = {https://github.com/kaionix-labs/sdcf},
+  url = {https://github.com/waynemkearns/SDCF},
   version = {1.0}
 }
 ```
