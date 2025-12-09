@@ -95,6 +95,7 @@ Thumbs.db
 *.csv
 *.xlsx
 *.json
+!validation/*.json
 !validation/results/*.json
 *.log
 temp/
