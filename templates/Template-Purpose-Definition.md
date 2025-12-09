@@ -164,7 +164,7 @@ _______________________________          Date: _______________
 
 **SDCF Version:** 1.95  
 **Framework Author:** Wayne Kearns, Kaionix Labs  
-**Website:** https://kaionixlabs.com/sdcf
+**Website:** https://github.com/waynemkearns/SDCF
 
 © 2025 Wayne Kearns, Kaionix Labs. SDCF is licensed under CC BY-NC-SA 4.0.
 

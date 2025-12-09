@@ -225,7 +225,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 ## Support
 
 - **Email:** wayne.kearns@nortesconsulting.com
-- **Website:** https://kaionixlabs.com/sdcf
+- **Website:** https://github.com/waynemkearns/SDCF
 - **Issues:** [GitHub Issues](https://github.com/waynemkearns/SDCF/issues)
 
 ### Professional Services

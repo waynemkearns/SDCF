@@ -64,7 +64,7 @@ COMMERCIAL LICENSING
 For commercial use of the framework documentation, please contact:
 
   Email: wayne.kearns@nortesconsulting.com
-  Website: https://kaionixlabs.com/sdcf
+  Website: https://github.com/waynemkearns/SDCF
 
 ================================================================================
 
