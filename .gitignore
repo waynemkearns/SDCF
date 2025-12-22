@@ -97,6 +97,7 @@ Thumbs.db
 *.json
 !validation/*.json
 !validation/results/*.json
+!codemeta.json
 *.log
 temp/
 tmp/
